@@ -1,18 +1,14 @@
-# 💫 About Me:
-🔭 Sou estudante de Java<br>🤝 Estou a procura de um estágio<br>⚡ Fun fact: Sempre estou procurando aprender mais
+# Victor Hugo
+Olá, Meu nome é Victor Hugo, tenho 18 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas na instituição Senac Santo Amaro e estou cursando inglês na Fisk.
+Tenho habilidade e facil aprendizado com coisas relacionadas a computador e tecnologia em geral.
+Sei me comunicar bem e trabalhar em equipe.
 
+## Habilidades
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-hugo-pires-4542462a4) 
+## Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-pires-4542462a4/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevVictorH)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevVictorH&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevVictorH&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevVictorH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevVictorH&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
----
-[![](https://visitcount.itsvg.in/api?id=DevVictorH&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
