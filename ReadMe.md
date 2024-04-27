@@ -1,5 +1,5 @@
 # Victor Hugo
-Olá, Meu nome é Victor Hugo, tenho 18 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas na instituição Senac Santo Amaro e estou cursando inglês na Fisk.
+Olá, Meu nome é Victor Hugo, tenho 18 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas na instituição Senac e estou cursando inglês na Fisk.
 Tenho habilidade e facil aprendizado com coisas relacionadas a computador e tecnologia em geral.
 Sei me comunicar bem e trabalhar em equipe.
 
