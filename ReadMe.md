@@ -1,7 +1,6 @@
 # Victor Hugo
 Olá, Meu nome é Victor Hugo, tenho 18 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas na instituição Senac e estou cursando inglês na Fisk.
 Tenho habilidade e facil aprendizado com coisas relacionadas a computador e tecnologia em geral.
-Sei me comunicar bem e trabalhar em equipe.
 
 ## Habilidades
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
