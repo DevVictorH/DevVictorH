@@ -1,7 +1,7 @@
 # Victor Hugo
 👨‍💻 Olá! Me chamo Victor Hugo e sou estudante de Análise e Desenvolvimento de Sistemas no Senac. Sou apaixonado por tecnologia, programação e pelo constante aprendizado que a área proporciona.
 
-Atualmente, possuo conhecimentos em linguagens como Java, Python, HTML, CSS e SQL, e utilizo ferramentas como Eclipse, VS Code e IntelliJ para desenvolver meus projetos. Estou sempre em busca de aprimorar minhas habilidades e contribuir com soluções criativas e eficientes para desafios do mundo da tecnologia.
+Atualmente, estou empenhado em estudar Java, Spring e SQL, e utilizo ferramentas como VS Code e IntelliJ para desenvolver meus projetos. Estou sempre em busca de aprimorar minhas habilidades e contribuir com soluções criativas e eficientes para desafios do mundo da tecnologia.
 
 Além disso, tenho inglês avançado e estou em constante evolução, participando de cursos e projetos para fortalecer meu portfólio e minha carreira na área de TI.
 
