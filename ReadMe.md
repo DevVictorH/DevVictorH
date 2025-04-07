@@ -1,6 +1,11 @@
 # Victor Hugo
-Olá, Meu nome é Victor Hugo, tenho 18 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas na instituição Senac e estou cursando inglês na Fisk.
-Tenho habilidade e facil aprendizado com coisas relacionadas a computador e tecnologia em geral.
+👨‍💻 Olá! Me chamo Victor Hugo e sou estudante de Análise e Desenvolvimento de Sistemas no Senac. Sou apaixonado por tecnologia, programação e pelo constante aprendizado que a área proporciona.
+
+Atualmente, possuo conhecimentos em linguagens como Java, Python, HTML, CSS e SQL, e utilizo ferramentas como Eclipse, VS Code e IntelliJ para desenvolver meus projetos. Estou sempre em busca de aprimorar minhas habilidades e contribuir com soluções criativas e eficientes para desafios do mundo da tecnologia.
+
+Além disso, tenho inglês avançado e estou em constante evolução, participando de cursos e projetos para fortalecer meu portfólio e minha carreira na área de TI.
+
+📌 Acompanhe meus repositórios e evoluções por aqui!
 
 ## Habilidades
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-01003b?style=for-the-badge&logo=python&logoColor=ffffff)
