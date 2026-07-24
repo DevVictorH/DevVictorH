@@ -1,9 +1,7 @@
 # Victor Hugo
-👨‍💻 Olá! Me chamo Victor Hugo e sou estudante de Análise e Desenvolvimento de Sistemas no Senac. Sou apaixonado por tecnologia, programação e pelo constante aprendizado que a área proporciona.
+Desenvolvedor de Software formado em Análise e Desenvolvimento de Sistemas.
 
-Atualmente, estou empenhado em estudar Java, Spring e SQL, e utilizo ferramentas como VS Code e IntelliJ para desenvolver meus projetos. Estou sempre em busca de aprimorar minhas habilidades e contribuir com soluções criativas e eficientes para desafios do mundo da tecnologia.
-
-Além disso, tenho inglês avançado e estou em constante evolução, participando de cursos e projetos para fortalecer meu portfólio e minha carreira na área de TI.
+Tenho foco no desenvolvimento back-end, além de experiência na construção de APIs REST, integração com bancos de dados relacionais e desenvolvimento de aplicações utilizando React, TypeScript, PostgreSQL e Docker.
 
 📌 Acompanhe meus repositórios e evoluções por aqui!
 
@@ -13,8 +11,3 @@ Além disso, tenho inglês avançado e estou em constante evolução, participan
 ## Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-pires-4542462a4/) 
 <a href = "mailto:victorvilto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logo=gmail&logoColor=white" target="_blank"></a>
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevVictorH&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DevVictorH&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
