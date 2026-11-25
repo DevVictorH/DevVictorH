@@ -1,6 +1,6 @@
 # Victor Hugo
 
-Desenvolvedor de Software formado em Análise e Desenvolvimento de Sistemas.
+Desenvolvedor de Software Jr.
 
 Tenho foco no desenvolvimento back-end, além de experiência na construção de APIs REST, integração com bancos de dados relacionais e desenvolvimento de aplicações utilizando React, TypeScript, PostgreSQL e Docker.
 
